@@ -33,6 +33,11 @@ rules = {
         "How did your father make you feel?",
         "What has your father taught you?"
     ],
+    r'i like (.*)': [
+        "Why do you like {0}?",
+        "What else do you like about {0}?",
+        "How does liking {0} make you feel?"
+    ],
     r'.*': [
         "Please tell me more.",
         "Let's change focus a bit... Tell me about your family.",

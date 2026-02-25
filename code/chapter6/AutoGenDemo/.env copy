@@ -1,4 +1,4 @@
-LLM_MODEL_ID="YOUR-MODEL"
-LLM_API_KEY="YOUR-API-KEY"
-LLM_BASE_URL="YOUR-URL"
+LLM_MODEL_ID="qwen3.5-flash"
+LLM_API_KEY="sk-209f393d6d8147718685ba593906a4f6"
+LLM_BASE_URL="https://dashscope.aliyuncs.com/compatible-mode/v1"
 LLM_TIMEOUT=60
